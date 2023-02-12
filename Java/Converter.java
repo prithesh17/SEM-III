@@ -105,7 +105,7 @@ class Converter {
                 }
                 case 13: {
                     System.out.println("Enter the number of seconds: ");
-                    seconds = in.nextDouble();d
+                    seconds = in.nextDouble();
                     System.out.println("Hours: " + t.secondstohours(seconds));
                     break;
                 }
