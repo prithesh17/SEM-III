@@ -23,7 +23,7 @@ void pop()
     else
     {
         printf("Deleted item is %d \n", top->data);
-        top=temp->link;
+        top = temp->link;
         free(temp);
     }
 }
