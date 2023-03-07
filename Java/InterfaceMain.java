@@ -47,7 +47,7 @@ class Student implements Resume
 		email=sc.nextLine();
 		System.out.println("Enter Result");
 		result=sc.nextDouble();
-		System.out.println("Teacher Resume");
+		System.out.println("Student Resume");
 		System.out.println("Name : "+name);
 		System.out.println("Discipline : "+discipline);
 		System.out.println("USN : "+usn);
